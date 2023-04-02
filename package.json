@@ -1,5 +1,5 @@
 {
     "scripts": {
-      "dev": "concurrently 'npx serve' 'sleep 5 && y'"
+      "dev": "'npx serve' 'sleep 5 && y'"
     }
 }
