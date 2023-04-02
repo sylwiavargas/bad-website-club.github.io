@@ -1,5 +1,5 @@
 {
     "scripts": {
-      "dev": "npm lite-server"
+      "dev": "npm install lite-server"
     }
 }
