@@ -1,5 +1,5 @@
 {
     "scripts": {
-      "dev": "npx serve"
+      "dev": "npx serve && y"
     }
 }
